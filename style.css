@@ -16,7 +16,7 @@ main{
     margin: 30px auto;
     padding: 20px;
     position: static;
-    background-color: #fefefe;
+    background-color: #2b4fd1;
     overflow: hidden;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
@@ -74,7 +74,7 @@ nav{
     position: fixed;
     inset: 0;
 
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(100, 147, 234, 0.5);
 
     justify-content: center;
     align-items: center;
@@ -89,7 +89,7 @@ nav{
 
     padding: 30px;
 
-    background-color: white;
+    background-color: rgb(118, 184, 235);
     border-radius: 10px;
 
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
@@ -125,7 +125,7 @@ nav{
     font-size: 32px;
     cursor: pointer;
 
-    background-color: rgba(200, 200, 200, 0.2);
+    background-color: rgba(103, 101, 221, 0.2);
   }
 
 /* Nút xem chi tiết */
@@ -135,8 +135,8 @@ nav{
     border: none;
     border-radius: 5px;
 
-    background-color: #333;
-    color: white;
+    background-color: #49acde;
+    color: rgb(14, 153, 239);
 
     cursor: pointer;
 }
